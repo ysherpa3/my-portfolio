@@ -1,0 +1,13 @@
+{
+  "name": "Yogesh Sherpa Portfolio",
+  "short_name": "Yogesh Portfolio",
+  "icons": [
+    {
+      "src": "/favicons/google-touch-icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#F7FAFC",
+  "theme_color": "#3182CE",
+  "display": "fullscreen"
+}

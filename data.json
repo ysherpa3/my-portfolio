@@ -1,0 +1,135 @@
+{
+  "resume": {
+    "experience": [
+      {
+        "id": 1,
+        "date": "Mar 2021 - Jan 2022",
+        "title": "Assistant Manager",
+        "company": "Atrium Assisted Living",
+        "duties": [
+          "Interpreted and communicated new or revised policies to the staff and residents",
+          "Populated and updated Medical Administration Records (MAR) of residents",
+          "Created monthly schedules for staff and activity calendar for residents",
+          "Served as liaison for residents, family members, and staff",
+          "Investigated and reported incidents and family member or residents’ complaints to the facility owner",
+          "Resolved and satisfied residents’ requests or issues"
+        ]
+      },
+      {
+        "id": 2,
+        "date": "Oct 2017 - Current",
+        "title": "IT Consultant",
+        "company": "",
+        "duties": [
+          "Built and maintained website from scratch for small business clients",
+          "Set up Zoho CRM to store customer information, to manage company email, and to create and send estimates/invoices",
+          "Built desktop PCs according to specific needs using custom parts",
+          "Maintained PCs by keeping it up-to-date via software updates and replacing damaged/outdated hardware"
+        ]
+      },
+      {
+        "id": 3,
+        "date": "Aug 2010 - Current",
+        "title": "Home Care Aide",
+        "company": "",
+        "duties": [
+          "Monitored and reported important patient information to healthcare providers to help with treatment and care",
+          "Promoted good hygiene by assisting with bathing and brushing teeth",
+          "Sanitized high-touch surfaces and equipment daily or after each use",
+          "Kept accurate records of patient’s condition and progress",
+          "Transported clients for medical and recreational purposes"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": 1,
+        "name": "George Mason University",
+        "date": "2014 - 2017",
+        "location": "Fairfax, VA",
+        "program": "Applied Information Technology"
+      },
+      {
+        "id": 2,
+        "name": "Northern Virginia Community College",
+        "date": "2011 - 2013",
+        "location": "Annandale, VA",
+        "program": "Electrical Engineering"
+      }
+    ],
+    "skills": [
+      {
+        "id": 1,
+        "name": "Programming Languages",
+        "list": ["JavaScript", "TypeScript", "HTML", "CSS", "GraphQL"]
+      },
+      {
+        "id": 2,
+        "name": "Frameworks",
+        "list": [
+          "React",
+          "Next",
+          "Gatsby",
+          "Django",
+          "Chakra UI",
+          "Material UI"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "Sherpa Home Improvement",
+      "description": "Website built for a home improvement small business based in Vienna, VA",
+      "techs": [
+        "React",
+        "JavaScript",
+        "Gatsby",
+        "Chakra UI",
+        "Netlify CMS",
+        "React Hook Form"
+      ],
+      "githubUrl": "",
+      "liveUrl": "https://sherpahomeimprovement.com/",
+      "screenshot": "/images/sherpa-home-improvement-screenshot.png"
+    },
+    {
+      "id": 2,
+      "name": "Capital Weather",
+      "description": "Displays current, hourly, and daily weather information of the selected city",
+
+      "techs": [
+        "React",
+        "JavaScript",
+        "Chakra UI",
+        "OpenWeatherMap API",
+        "Algolia Search",
+        "DayJS"
+      ],
+      "githubUrl": "https://github.com/ysherpa3/weather-app/",
+      "liveUrl": "https://ys-weather-app.netlify.app/",
+      "screenshot": "/images/weather-screenshot.png"
+    },
+    {
+      "id": 3,
+      "name": "Trivia",
+      "description": "Generates a trivia game according to the user-selected options (number of questions, category, difficulty)",
+
+      "techs": ["React", "Chakra UI", "TypeScript", "Open Trivia API"],
+      "githubUrl": "https://github.com/ysherpa3/trivia-app/",
+      "liveUrl": "https://ys-react-trivia.netlify.app/",
+      "screenshot": "/images/trivia-screenshot.png"
+    },
+    {
+      "id": 4,
+      "name": "Todo List",
+      "description": "A simple todo-list app that allows user to add task, remove task, and mark as complete/incomplete",
+
+      "techs": ["React", "JavaScript", "Material UI"],
+      "githubUrl": "https://github.com/ysherpa3/todos-crud-app/",
+      "liveUrl": "https://ys-todo-app.netlify.app/",
+      "screenshot": "/images/todolist-screenshot.png"
+    }
+  ]
+}
