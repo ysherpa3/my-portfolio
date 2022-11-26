@@ -96,7 +96,7 @@
     },
     {
       "id": 2,
-      "name": "Capital Weather",
+      "name": "Weather App",
       "description": "Displays current, hourly, and daily weather information of the selected city",
 
       "techs": [
@@ -113,7 +113,7 @@
     },
     {
       "id": 3,
-      "name": "Trivia",
+      "name": "Trivia App",
       "description": "Generates a trivia game according to the user-selected options (number of questions, category, difficulty)",
 
       "techs": ["React", "Chakra UI", "TypeScript", "Open Trivia API"],
@@ -123,7 +123,7 @@
     },
     {
       "id": 4,
-      "name": "Todo List",
+      "name": "Todo List App",
       "description": "A simple todo-list app that allows user to add task, remove task, and mark as complete/incomplete",
 
       "techs": ["React", "JavaScript", "Material UI"],
